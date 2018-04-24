@@ -9,6 +9,3 @@ for line in sys.stdin:
     print(line, end="")
     print("test")
 
-
-def funx():
-    pass
